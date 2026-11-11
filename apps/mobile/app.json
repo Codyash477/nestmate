@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Nestmate",
+    "slug": "nestmate",
+    "scheme": "nestmate",
+    "version": "1.0.0",
+    "userInterfaceStyle": "dark",
+    "plugins": [
+      "expo-router"
+    ],
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
